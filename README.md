@@ -42,4 +42,4 @@ Contributors names and contact info
 
 ## License
 
-This project is licensed under the License - see the [LICENSE.md](https://github.com/Alexsandrogms/expopwa/blob/master/LICENSE) file for details
+This project is licensed under the License - see the [LICENSE.md](https://github.com/Alexsandrogms/pwaexpo/blob/master/LICENSE.md) file for details
